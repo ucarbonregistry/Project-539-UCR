@@ -52,3 +52,15 @@ is directly contributing to climate change mitigation by reducing the anthropoge
 greenhouse gases (GHGs, i.e. CO2) into the atmosphere by displacing an equivalent amount of
 power at grid. 
 __________
+Sl No Company Name Cap. in MW Commissioning Date No of WEGs WTG Make State
+____________
+1 Intech Power Systems Chennai Pvt Ltd 6.25 Sep-2006 5 Suzlon Maharastra 
+________
+1 Intech Power Systems Chennai Pvt Ltd 3.15 Feb-2008 14 GWL Karnataka
+_____________
+2 Intech Power Kovai Pvt Ltd 1.25 - 1 Suzlon Maharashtra
+______
+3 Intech Automation Pvt Ltd 2.5 Sep-2005 2 Suzlon Maharastra
+_________
+4 Inno Automation India Pvt Ltd 2.5 2005 & 2006 2 Suzlon Maharastra
+________________
